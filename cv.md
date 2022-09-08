@@ -2,31 +2,32 @@
 
 ## Personal Information
 
-**Name**: Dmitriy Vnuchkov
-**Age**: 30
-**Origin**: Tashkent, Uzbekistan
-**Email**: dmitriy.vnuchkov@gmail.com
-**Bio**: I am an English language teacher, who has decided to make an attempt in shifting from language teaching to information technology. 18 months have passed since my first deep dive into programming, and I feel more than excited about the doors to open, knowledge to gain, and practices to do. So far, I have participated in a number of projects during my studies. I was mainly learning online all by myself, using YouTube and Udemy courses.
+- **Name**: Dmitriy Vnuchkov
+- **Age**: 30
+- **Origin**: Tashkent, Uzbekistan
+- **Email**: dmitriy.vnuchkov@gmail.com
+- **Bio**: I am an English language teacher, who has decided to make an attempt in shifting from language teaching to information technology. 18 months have passed since my first deep dive into programming, and I feel more than excited about the doors to open, knowledge to gain, and practices to do. So far, I have participated in a number of projects during my studies. I was mainly learning online all by myself, using YouTube and Udemy courses.
 
 Since I love working with computers, programming is fun to me. Obviously, I feel tired after sitting and coding for several hours. It is a nice exercise for my brain because coding implies thinking logically and analytically. Sometimes I spend too much time making things perfect, so I try to stay away from this obsessive idea to complete tasks to the nail at once. On the other hand, it never takes much time to pull my socks up. They say "Coding is fun!", and I agree with that.
 
 ## Qualifications
 
-**_Unrelated to IT_**
-**2019 - Master of Art in Teaching English to Speakers of Other Languages** (_University of Nicosia_, _Cyprus_)
-**2012 - Bachelor in English Philology** (_Uzbek State University of World Languages_, _Tashkent_)
+- **_Unrelated to IT_**
 
-**_Related to IT_**
-**2021 - The Complete Javascript Course: From Zero to Expert** (_Udemy Platform_)
-**2022 - CSS - The Complete Guide** (_Udemy Platform_)
-**2022 - Node.js, Express, MongoDB and More: The Complete Bootcamp** (_Udemy Platform_)
+- **2019 - Master of Art in Teaching English to Speakers of Other Languages** (_University of Nicosia_, _Cyprus_)
+- **2012 - Bachelor in English Philology** (_Uzbek State University of World Languages_, _Tashkent_)
+
+- **_Related to IT_**
+- **2021 - The Complete Javascript Course: From Zero to Expert** (_Udemy Platform_)
+- **2022 - CSS - The Complete Guide** (_Udemy Platform_)
+- **2022 - Node.js, Express, MongoDB and More: The Complete Bootcamp** (_Udemy Platform_)
 
 ## Skills
 
-**HTML & CSS** - Intermediate
-**Javascript** - Intermediate
-**Node.js** - Advanced Beginner
-**Express** - Advanced Beginner
+- **HTML & CSS** - Intermediate
+- **Javascript** - Intermediate
+- **Node.js** - Advanced Beginner
+- **Express** - Advanced Beginner
 
 ## Experience
 
