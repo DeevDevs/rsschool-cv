@@ -16,8 +16,8 @@ Since I love working with computers, programming is fun to me. Obviously, I feel
 
 ### _Unrelated to IT_
 
-**2019 - Master of Art in Teaching English to Speakers of Other Languages** (_University of Nicosia_, _Cyprus_)  
 **2012 - Bachelor in English Philology** (_Uzbek State University of World Languages_, _Tashkent_)
+**2019 - Master of Art in Teaching English to Speakers of Other Languages** (_University of Nicosia_, _Cyprus_)
 
 ### _Related to IT_
 
@@ -27,7 +27,7 @@ Since I love working with computers, programming is fun to me. Obviously, I feel
 
 ### _Languages_
 
-**Russian** - Native
+**Russian** - Native  
 **English** - Advanced
 
 ## Skills
