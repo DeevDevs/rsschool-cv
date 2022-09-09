@@ -2,7 +2,7 @@
 
 ## Personal Information
 
-![My friendly-aggressive selfie here](https://i.ibb.co/S550HNx/20201220-171407.jpg)
+![My friendly-aggressive selfie here](https://i.ibb.co/hD2H62Q/small-selfie.jpg)
 
 **Name**: Dmitriy Vnuchkov  
 **Age**: 30  
