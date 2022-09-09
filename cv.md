@@ -6,6 +6,7 @@
 **Age**: 30  
 **Origin**: Tashkent, Uzbekistan  
 **Email**: dmitriy.vnuchkov@gmail.com
+**Discord**: Dmitriy V (@DeevDevs)
 
 **Bio**: I am a teacher of English language, who has decided to make an attempt in shifting from language teaching to information technology. 18 months have passed since my first deep dive into programming, and I feel more than excited about the doors to open, knowledge to gain, and practices to do. So far, I have participated in a number of projects during my studies. I was mainly learning online all by myself, using YouTube and Udemy courses.
 
