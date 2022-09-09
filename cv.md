@@ -7,12 +7,12 @@
 **Name**: Dmitriy Vnuchkov  
 **Age**: 30  
 **Origin**: Tashkent, Uzbekistan  
-**Email**: dmitriy.vnuchkov@gmail.com
+**Email**: dmitriy.vnuchkov@gmail.com  
 **Discord**: Dmitriy V (@DeevDevs)
 
 **Bio**: I am a teacher of English language, who has decided to make an attempt in shifting from language teaching to information technology. 18 months have passed since my first deep dive into programming, and I feel more than excited about the doors to open, knowledge to gain, and practices to do. So far, I have participated in a number of projects during my studies. I was mainly learning online all by myself, using YouTube and Udemy courses.
 
-Since I love working with computers, programming is fun to me. Obviously, I feel tired after sitting and coding for several hours. It is a nice exercise for my brain because coding implies thinking logically and analytically. Sometimes I spend too much time making things perfect, so I try to stay away from this obsessive idea to complete tasks to the nail at once. On the other hand, it never takes much time to pull my socks up. They say "Coding is fun!", and I agree with that.
+Since I love working with computers, programming is fun to me. Obviously, I feel tired after sitting and coding for several hours. Still, it is a nice exercise for my brain because coding implies thinking logically and analytically. Sometimes I spend too much time making things perfect, so I try to stay away from this obsessive idea to complete tasks to the nail at once. On the other hand, it never takes much time to pull my socks up. They say "Coding is fun!", and I agree with that.
 
 ## Qualifications
 
