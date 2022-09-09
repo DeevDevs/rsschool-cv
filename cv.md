@@ -24,12 +24,48 @@ Since I love working with computers, programming is fun to me. Obviously, I feel
 **2022 - CSS - The Complete Guide** (_Udemy Platform_)  
 **2022 - Node.js, Express, MongoDB and More: The Complete Bootcamp** (_Udemy Platform_)
 
+### _Languages_
+
+**Russian** - Native
+**English** - Advanced
+
 ## Skills
 
 **HTML & CSS** - Intermediate  
 **Javascript** - Intermediate  
 **Node.js** - Advanced Beginner  
 **Express** - Advanced Beginner
+
+### _Code Example_
+
+```javascript
+  async displayFrontProjectDetails(projectId) {
+    try {
+      let projectData;
+      const idNum = parseInt(projectId);
+      if (this.projectDetails[idNum - 1].length === 0) {
+        const res = await axios({
+          method: 'GET',
+          url: `/details?prnumber=${idNum}`,
+        });
+        if (res.data.message === 'success') {
+          projectData = [res.data.detailsData.detailsLeft, res.data.detailsData.detailsRight];
+          this.projectDetails[idNum - 1] = projectData;
+        }
+      } else projectData = this.projectDetails[idNum - 1];
+      this.wheelDetails.forEach((element, i) => {
+        element.firstChild.textContent = projectData[i];
+        element.style.opacity = 1;
+      });
+    } catch (err) {
+      this.wheelDetails.forEach((element, i) => {
+        element.firstChild.textContent =
+          'Oops... Something went wrong. Information about this project is not accessible at the moment. Please, try again later.';
+        element.style.opacity = 1;
+      });
+    }
+  }
+```
 
 ## Experience
 
